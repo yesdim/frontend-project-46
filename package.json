@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  },
+  "name": "@hexlet/code",
+  "description": "[![Actions Status](https://github.com/yesdim/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/yesdim/frontend-project-46/actions)",
+  "version": "1.0.0",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yesdim",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
