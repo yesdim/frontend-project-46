@@ -15,6 +15,7 @@
   "author": "yesdim",
   "license": "ISC",
   "dependencies": {
-    "commander": "^11.0.0"
+    "commander": "^11.0.0",
+    "lodash": "^4.17.21"
   }
 }
